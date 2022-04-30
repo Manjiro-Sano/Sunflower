@@ -1,6 +1,6 @@
 from pyrogram import Client, filters
 from pyrogram.types import Message, Voice
-from sunutils import group_call, quu, block_chat, FFMPEG_PRO, yt_download
+from sunutils import group_call, quu, block_chat, FFMPEG_PRO
 import sunutils
 from pytgcalls import PyTgCalls
 from pytgcalls.types import Update
